@@ -1,6 +1,6 @@
 <!-- Custom banner with logo space (replace 'banner.png' with your actual logo) -->
 <p align="center">
-  <img src="https://github.com/jxpjxt/profile-banner.png" alt="Japjot Singh Bhatia | AI Engineering Portfolio" width="100%"/>
+  <img src="./profile-banner.png" alt="Japjot Singh Bhatia | AI Engineering Portfolio" width="100%"/>
 </p>
 
 <h1 align="center">⚡ Data Alchemist | Production-Grade ML Solutions</h1>
