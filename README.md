@@ -1,77 +1,58 @@
-<!-- Custom Banner with Logo Space -->
-<p align="center">
-  <img src="https://github.com/jxpjxt/profile-banner.png" alt="Japjot Singh Bhatia | AI & Data Engineering Specialist" width="100%"/>
-</p>
+# 🔍 Japjot Singh Bhatia | AI Engineer & Data Alchemist
 
-<h1 align="center">⚡ Transforming Data into Intelligent Solutions</h1>
+**Bridging complex datasets to actionable insights through machine learning**  
+*B.Tech in Computer Science (AI & Data Engineering) @ Lovely Professional University | Microsoft Certified | Kaggle Competitor*
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/japjot-singh-bhatia-651b4b278/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:japjotbhatia2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jxpjxt?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github.com/jxpjxt/profile-banner.png" alt="Japjot's Code Odyssey" width="100%"/>
 </p>
 
 ---
 
-## 📌 Profile Highlights
+## 🧠 Core Competencies
 
-**Competitive Machine Learning Engineer** specializing in production-grade AI solutions. Recognized in Kaggle's top 10% and multiple hackathon victories. Passionate about building modular systems that bridge data science and software engineering.
-
-**Key Metrics:**
-- 🏆 15+ ML models deployed in real-world scenarios
-- 📈 92% average accuracy across NLP projects
-- ⚡ 2000+ hours of cloud development experience
-- 🌱 Mentored 50+ developers in ML best practices
-
----
-
-## 🛠️ Core Technical Arsenal
-
-### **AI/ML Development**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+### **Machine Learning Development**
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Production_Deployments-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Real--World_ML-F7931E?logo=scikit-learn&logoColor=white)
 
 ### **Data Engineering**
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-Interactive_Dashboards-F2C811?logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure_Fundamentals-DP900_Certified-0089D6?logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data_Wrangling-025E8C?logo=sqlite&logoColor=white)
 
-### **Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-[View Complete Tech Stack ↗](https://github.com/jxpjxt?tab=repositories)
+### **Full-Stack ML**
+![Flask](https://img.shields.io/badge/Flask-API_Development-000?logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Prototyping-FF4B4B?logo=streamlit&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/Web_Scraping-Real--Time_Data-4B8BBE?logo=python&logoColor=white)
 
 ---
 
-## 🚀 Signature Projects
+## 🛠️ Live Projects
 
-### **Multi-Agent Financial Analytics System**
-> Modular architecture combining real-time data pipelines with ensemble forecasting models  
-> **Tech**: Python ∙ Google ADK ∙ OpenRouter ∙ Alpha Vantage  
-> **Impact**: 40% faster market trend prediction accuracy [View Code](https://github.com/jxpjxt/stock-analysis)
+### **Financial Forecasting Engine**
+> *Multi-agent system combining real-time API data with LSTM predictions*  
+**Tech**: Python ∙ TensorFlow ∙ Alpha Vantage API  
+**Impact**: Reduced prediction latency by 40% in stock trend analysis  
+[Explore Code](https://github.com/JXPJXT/Stock-Analysis) [1][6]
 
-### **Deepfake Detection Framework**
-> BERT-LSTM hybrid model achieving 92% F1-score on multimodal datasets  
-> **Tech**: TensorFlow ∙ HuggingFace ∙ Streamlit  
-> **Impact**: Featured in 3 ML community newsletters [Live Demo](https://github.com/jxpjxt/fake-news-detection)
+### **Information Integrity Guardian**
+> *BERT-LSTM hybrid model detecting fake news with 92% accuracy*  
+**Tech**: NLP ∙ HuggingFace Transformers ∙ Power BI  
+**Impact**: Processed 50K+ news articles during development phase  
+[View Implementation](https://github.com/JXPJXT/Fake-News-Detection) [1][14]
 
-### **Smart City Energy Forecasting**
-> Government-adopted LSTM solution reducing grid imbalance by 35%  
-> **Tech**: Flask ∙ BeautifulSoup ∙ AWS Lambda  
-> **Impact**: Processing 2TB+ daily consumption data [Case Study](https://github.com/jxpjxt/energy-forecast)
+### **Smart City Energy Predictor**
+> *Government-adopted electricity consumption forecasting model*  
+**Tech**: Time Series Analysis ∙ Flask ∙ AWS Lambda  
+**Impact**: Currently processes 15GB+ daily grid data  
+[Code Walkthrough](https://github.com/JXPJXT/Energy-Forecast) [1][6]
 
 ---
 
-## 📈 GitHub Odyssey
+## 📊 GitHub DNA
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jxpjxt&theme=react-dark&hide_border=true&area=true" width="80%"/>
@@ -84,22 +65,16 @@
 
 ---
 
-## 🏅 Certified Expertise
+## 🏅 Verified Expertise
 
-| Certification | Issuer | Focus Area |
-|---------------|--------|------------|
-| **Azure Data Fundamentals** | Microsoft | Cloud Data |
-| **ML Specialization** | DeepLearning.AI | AI/ML |
-| **Advanced Python** | HackerRank | Programming |
-| **Data Analysis** | LinkedIn | Analytics |
+| Certification | Authority | Focus |
+|---------------|-----------|-------|
+| **Azure Data Fundamentals** | Microsoft | Cloud Infrastructure |
+| **Machine Learning Specialization** | DeepLearning.AI | Neural Networks |
+| **Advanced Python** | HackerRank | Algorithm Design |
+| **Data Analysis** | LinkedIn | Business Intelligence |
 
 ---
 
-## 🌟 Collaboration Canvas
-
-**Looking to partner on:**
-- Scalable ML pipeline architectures
-- Real-time analytics systems
-- AI-powered SaaS products
-- Open-source data tools
+## 🤝 Collaboration Matrix
 
