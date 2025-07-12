@@ -13,8 +13,11 @@
   <a href="https://www.linkedin.com/in/japjot-singh-bhatia-651b4b278/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:japjotbhatia2004@gmail.com">
+  <a href="mailto:bhatiajapjotjpr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Direct_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://japjot.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-00C4B4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -86,6 +89,3 @@
 | Data Analysis Essentials | Microsoft/LinkedIn | Business Intelligence |
 
 ---
-
-## 🤝 Collaboration Matrix
-
