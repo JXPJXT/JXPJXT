@@ -64,8 +64,6 @@
 **Impact**: Processes 15GB+ daily consumption data  
 [Case Study](https://github.com/JXPJXT/Energy-Forecast)
 
----
-## 📊 GitHub Stats
 ## 📊 GitHub Odyssey
 
 <p align="center">
@@ -76,7 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jxpjxt&show_icons=true&theme=radical" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxpjxt&theme=radical" width="45%"/> 
 </div>
----
+
 
 ## 🏅 Verified Expertise
 
