@@ -66,18 +66,16 @@
 
 ---
 ## 📊 GitHub Stats
+## 📊 GitHub Odyssey
 
 <p align="center">
-  <a href="https://github.com/jxpjxt">
-    <img src="https://github-profile-trophy.vercel.app/?username=jxpjxt&theme=gruvbox&margin-w=8&no-bg=true" width="95%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=jxpjxt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jxpjxt&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxpjxt&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="55%"/>
-    <!-- Replace the snake URL after you set up Platane's snk action for your account -->
-    <img src="https://github.com/jxpjxt/jxpjxt/raw/output/github-contribution-grid-snake.svg" width="95%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jxpjxt&theme=react-dark&hide_border=true&area=true" width="80%"/>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jxpjxt&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxpjxt&theme=radical" width="45%"/> 
+</div>
 ---
 
 ## 🏅 Verified Expertise
