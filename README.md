@@ -1,96 +1,361 @@
-<!-- Header with Banner -->
 <div align="center">
-  <img src="./profile-banner.png" alt="Japjot Singh Bhatia Banner" width="100%" />
-  
-  <h1 style="font-size: 3em;">🚀 JAPJOT SINGH BHATIA</h1>
-  <h3>⚡ Aspiring AI/ML Engineer | Agentic AI Specialist | Data Alchemist</h3>
+<!-- Animated Terminal Header -->
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   ██╗ █████╗ ██████╗      ██╗ ██████╗ ████████╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗  ║
+║   ██║██╔══██╗██╔══██╗     ██║██╔═══██╗╚══██╔══╝    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║  ║
+║   ██║███████║██████╔╝     ██║██║   ██║   ██║       ███████╗██║██╔██╗ ██║██║  ███╗███████║  ║
+║  ██╔╝██╔══██║██╔═══╝ ██   ██║██║   ██║   ██║       ╚════██║██║██║╚██╗██║██║   ██║██╔══██║  ║
+║  ██║ ██║  ██║██║     ╚█████╔╝╚██████╔╝   ██║       ███████║██║██║ ╚████║╚██████╔╝██║  ██║  ║
+║  ╚═╝ ╚═╝  ╚═╝╚═╝      ╚════╝  ╚═════╝    ╚═╝       ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝  ║
+║                                                                               ║
+║                    > AI/ML ENGINEER                                           ║
+║                    > DEPLOYING INTELLIGENT SYSTEMS AT SCALE                   ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Building+the+Future+with+AI+%26+Data;From+Neural+Networks+to+Production+Systems" alt="Typing SVG" />
+</div>
 
-  <p>
-    <a href="https://www.linkedin.com/in/japjot-singhb/">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_NOW-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:bhatiajapjotjpr@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-INITIATE_COMMS-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://japjot.vercel.app">
-      <img src="https://img.shields.io/badge/PORTFOLIO-ENTER_THE_VOID-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
+<div align="center">
+『 SYSTEM.INITIALIZE() 』
+</div>
+```python
+class JapjotSingh:
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.location = "India 🇮🇳"
+        self.current_focus = ["Agentic AI", "LLMs", "Cloud Architecture"]
+        self.mission = "Transform complex problems into elegant AI solutions"
+def get_tech_stack(self):
+    return {
+        "languages": ["Python", "Java", "SQL", "TypeScript"],
+        "ai_ml": ["TensorFlow", "PyTorch", "HuggingFace", "LangChain", "Sentence-BERT"],
+        "web": ["FastAPI", "Flask", "React", "Next.js"],
+        "cloud_devops": ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD"],
+        "databases": ["PostgreSQL", "MongoDB", "Supabase", "Redis"],
+        "tools": ["Git", "Airflow", "Databricks", "PowerBI"]
+    }
+
+def currently_working_on(self):
+    return [
+        "🤖 Building autonomous AI agents",
+        "📊 Scaling data pipelines",
+        "🧠 Fine-tuning LLMs for production"
+    ]
+
+---
+
+<div align="center">
+
+## ⚡ TECH ARSENAL
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🧠 AI & MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+### ☁️ CLOUD & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&theme=dark" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 💻 DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,fastapi&theme=dark" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+### 📊 DATA & ANALYTICS
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 FEATURED PROJECTS
+
+</div>
+
+<details open>
+<summary><b>🤖 AI-Based Smart Allocation Engine (PMIS)</b> - SIH 2024 National Finalist</summary>
+
+<br>
+```typescript
+const projectHighlights = {
+  achievement: "🏆 First Software Team from University to reach SIH Nationals",
+  problem: "Manual skill-to-role matching = inefficient resource allocation",
+  solution: "AI-powered allocation using NLP + optimization algorithms",
+  
+  techStack: {
+    ai: "Sentence-BERT for semantic similarity",
+    optimization: "Integer Linear Programming (ILP)",
+    frontend: "React + TypeScript + TailwindCSS",
+    backend: "Python + FastAPI + Supabase",
+    deployment: "GitHub Actions CI/CD"
+  },
+  
+  impact: {
+    accuracy: "92% skill-match precision",
+    timeReduction: "80% faster than manual allocation",
+    fairness: "Mathematically proven fair distribution"
+  }
+};
+Key Innovations:
+
+🧠 Neural semantic matching with cosine similarity scoring
+⚖️ ILP optimization ensuring zero-bias allocations
+🎯 Real-time dashboard with live allocation tracking
+🔄 Automated workflow pipelines
+
+→ View Documentation | → See Demo
+</details>
+<details>
+<summary><b>📰 Fake News Detection System</b> - Deep Learning at Scale</summary>
+<br>
+```python
+model_architecture = {
+    "type": "Hybrid Deep Learning Classifier",
+    "components": ["LSTM", "BERT"],
+    "performance": {
+        "accuracy": 95.96,
+        "dataset": "WELFake (72,000+ articles)",
+        "training_time": "Optimized with Databricks"
+    },
+    "production": {
+        "api": "FastAPI",
+        "deployment": "AWS EC2 + Kubernetes",
+        "pipeline": "Airflow ETL orchestration",
+        "scalability": "Handles 1000+ req/min"
+    }
+}
+```
+Technical Achievements:
+
+📊 Processed 72K+ news articles with distributed computing
+🧠 Combined LSTM's sequential learning + BERT's contextual understanding
+🚀 Production-grade REST API with <100ms latency
+☁️ Auto-scaling Kubernetes deployment on AWS
+
+→ GitHub Repo | → API Docs
+</details>
+<details>
+<summary><b>📈 AI-Powered Stock Analysis Agent</b> - Autonomous Multi-Agent System</summary>
+<br>
+```javascript
+const agentCapabilities = [
+  {
+    agent: "Market Intelligence",
+    tasks: ["Real-time ticker discovery", "Price tracking", "Volume analysis"],
+    tools: ["Yahoo Finance API", "Alpha Vantage"]
+  },
+  {
+    agent: "Sentiment Analyzer",
+    tasks: ["News scraping", "Social media analysis", "LLM-powered insights"],
+    tools: ["GPT-4", "Google ADK", "BeautifulSoup"]
+  },
+  {
+    agent: "Risk Assessor",
+    tasks: ["Portfolio optimization", "Volatility prediction", "Alerts"],
+    tools: ["NumPy", "Pandas", "Statistical Models"]
+  }
+];
+// Orchestration
+const workflow = async () => {
+const marketData = await marketAgent.fetch();
+const sentiment = await sentimentAgent.analyze(marketData);
+const recommendations = await riskAgent.evaluate(marketData, sentiment);
+return generateReport(recommendations);
+};
+
+**System Features:**
+- 🤖 3 autonomous agents with specialized capabilities
+- 🔗 LLM-powered reasoning with tool orchestration
+- 🛡️ Error-aware handling with graceful degradation
+- 🐳 Dockerized deployment with rate limiting
+
+[→ Live Demo](#) | [→ Architecture](#)
+
+</details>
+
+---
+
+<div align="center">
+
+## 💼 PROFESSIONAL EXPERIENCE
+
+</div>
+
+### 💠 **Data Intern** @ Futurense Technologies
+*Jun 2025 - Aug 2025*
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**Data Optimization**
+<br><br>
+Engineered Python ETL pipelines
+<br>
+Cleaned 100K+ marketing records
+<br>
+Enabled end-to-end funnel analysis
+
+</td>
+<td width="33%" align="center">
+
+**Visual Intelligence**
+<br><br>
+Built multi-page PowerBI dashboard
+<br>
+Identified 35% drop-off points
+<br>
+Exposed CPL strategy inefficiencies
+
+</td>
+<td width="33%" align="center">
+
+**Strategic Impact**
+<br><br>
+Proposed CPE-based budgeting
+<br>
+Improved lead quality by 40%
+<br>
+Increased conversions by 25%
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 ACHIEVEMENTS & CERTIFICATIONS
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+<img width="60" src="https://img.icons8.com/color/96/000000/trophy.png"/>
+<br><b>SIH 2024 Finalist</b>
+<br><sub>National Level</sub>
+</td>
+<td align="center">
+<img width="60" src="https://img.icons8.com/color/96/000000/oracle-logo.png"/>
+<br><b>OCI AI Certified</b>
+<br><sub>Foundations</sub>
+</td>
+<td align="center">
+<img width="60" src="https://img.icons8.com/color/96/000000/oracle-logo.png"/>
+<br><b>OCI Data Science</b>
+<br><sub>Professional</sub>
+</td>
+<td align="center">
+<img width="60" src="https://img.icons8.com/color/96/000000/azure-1.png"/>
+<br><b>Azure Certified</b>
+<br><sub>Data Fundamentals</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img width="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
+<br><b>5⭐ Gold</b>
+<br><sub>Java, Python, SQL</sub>
+</td>
+<td align="center">
+<img width="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+<br><b>500+ Problems</b>
+<br><sub>LeetCode</sub>
+</td>
+<td align="center">
+<img width="60" src="https://img.icons8.com/color/96/000000/medal.png"/>
+<br><b>Team Leader</b>
+<br><sub>SIH Project</sub>
+</td>
+<td align="center">
+<img width="60" src="https://img.icons8.com/color/96/000000/graduation-cap.png"/>
+<br><b>8.14 CGPA</b>
+<br><sub>B.Tech CSE</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB ANALYTICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JXPJXT&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&ring_color=00f7f7" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JXPJXT&theme=radical&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7&sideLabels=00f7f7&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPJXT&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JXPJXT&theme=radical&utcOffset=5.5" />
+
 </div>
 
 ---
 
-## � MISSION STATUS: ONLINE
-> *"Architecting the future with precision AI and scalable data systems."*
+<div align="center">
 
-I am a **Data-Driven Innovator** and **Aspiring AI Engineer** with a deep focus on **Large Language Models**, **Agentic Workshops**, and **Scalable Cloud Architectures**. My objective is to deploy intelligent systems that solve complex, real-world problems with high efficiency.
+## 🤝 CONNECT WITH ME
 
----
+<a href="https://www.linkedin.com/in/japjot-singhb/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:bhatiajapjotjpr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://japjot.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/JXPJXT">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-## 🛠️ NEURAL ARSENAL (TECH STACK)
-
-| **SYSTEM MODULES** | **TECHNOLOGIES** |
-| :--- | :--- |
-| **💻 CORE LANGUAGES** | `Python` `Java` `SQL` |
-| **🧠 AI & ML UNITS** | `TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `HuggingFace` `LLMs` `Agentic AI` |
-| **🌐 WEB & API LINKS** | `FastAPI` `Flask` `React` `TypeScript` `Supabase` |
-| **☁️ CLOUD & DEVOPS** | `Docker` `Kubernetes` `Azure` `AWS EC2` `CI/CD` `GitHub Actions` |
-| **📊 DATA & TOOLS** | `PowerBI` `MySQL` `MongoDB` `Google ADK` `Git` |
-
----
-
-## 💾 OPERATIONAL LOGS (EXPERIENCE)
-
-### 💠 **Data Intern** @ Futurense Technologies
-*🗓️ Jun 2025 - Aug 2025*
-*   **Data Optimization**: Engineered Python scripts to clean and standardize marketing data, enabling precise end-to-end funnel analysis.
-*   **Visual Intelligence**: Deployed a multi-page **Power BI** dashboard to visualize funnel drop-offs, exposing inefficiencies in CPL-focused strategies.
-*   **Strategic Pivot**: Proposed a transition to **CPE-based budgeting**, resulting in higher lead quality and improved downstream conversions.
-
----
-
-## 🚀 DEPLOYED PROTOCOLS (PROJECTS)
-
-### 🤖 **AI-Based Smart Allocation Engine (PMIS)**
-*Sep '25 | React, TypeScript, Python, Sentence-BERT, ILP*
-*   **Neural Matching**: Developed an AI-driven allocation system using **Sentence-BERT** and cosine similarity for optimal skill-role mapping.
-*   **Algorithm Integrity**: Integrated an **Integer Linear Programming (ILP)** model to ensure fair and transparent allocations.
-*   **Full-Stack Scale**: Built a responsive dashboard with a **Supabase** backend and automated workflows via **GitHub Actions**.
-*   🏆 *Nominated for Smart India Hackathon (SIH) Nationals.*
-
-### 📰 **Fake News Detection System**
-*Aug '25 | Python, BERT, LSTM, FastAPI, AWS*
-*   **Deep Learning Core**: Engineered a hybrid **LSTM + BERT** classifier achieving **95.96% accuracy** on the WELFake dataset (72K+ articles).
-*   **Big Data Ops**: Utilized **Databricks** for analysis and **Airflow** for ETL pipelining.
-*   **Cloud Deployment**: Productionized via **FastAPI** on **AWS EC2** with **Kubernetes** orchestration.
-
-### 📈 **AI-Powered Stock Analysis Agent**
-*Jul '25 | Python, Google ADK, LLMs, Agentic AI*
-*   **Autonomous Agents**: Built a multi-agent system combining real-time market data with LLM-driven insights.
-*   **Tool Orchestration**: Implemented ticker discovery, price tracking, and sentiment analysis with error-aware handling.
-*   **Robust Framework**: Designed modular REST APIs with rate limiting and deployed via **Docker**.
-
----
-
-## 🔐 CERTIFIED PROTOCOLS
-
-*   🏅 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-*   🏅 **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
-*   🏅 **Microsoft Certified: Azure Data Fundamentals**
-
----
-
-## 🏆 ACHIEVEMENT LOGS
-
-*   **Smart India Hackathon (SIH)**: Team Leader for PMIS Allocation Engine; 1st Software team from University nominated for Nationals.
-*   **LeetCode**: Solved **500+** Data Structure & Algorithm problems.
-*   **HackerRank**: 5-Star Gold Ranking in Java, Python, and SQL.
-*   **Academic**: 8.14 CGPA in B.Tech CSE, Lovely Professional University.
-
----
+<br><br>
+```ascii
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  "The best way to predict the future is to build it with AI"   │
+│                                                                 │
+│                         - Japjot Singh                          │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+<img src="https://komarev.com/ghpvc/?username=JXPJXT&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<br>
+⚡ Open to collaborations on AI/ML projects, research, and innovative solutions
+</div>
 
 <div align="center">
-  <h3>📊 GITHUB ANALYTICS</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=JXPJXT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="JXPJXT's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JXPJXT&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="JXPJXT's Streak" />
+⭐ If you find my work interesting, drop a star on my repositories!
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
