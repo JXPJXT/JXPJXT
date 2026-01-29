@@ -13,6 +13,21 @@
 ║                    > DEPLOYING INTELLIGENT SYSTEMS AT SCALE                   ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
+
+
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   ██╗ █████╗ ██████╗       ██╗ ██████╗ ████████╗         │
+│   ██║██╔══██╗██╔══██╗      ██║██╔═══██╗╚══██╔══╝         │
+│   ██║███████║██████╔╝      ██║██║   ██║   ██║            │
+│  ██╔╝██╔══██║██╔═══╝  ██   ██║██║   ██║   ██║            │
+│  ██║ ██║  ██║██║      ╚█████╔╝╚██████╔╝   ██║            │
+│  ╚═╝ ╚═╝  ╚═╝╚═╝       ╚════╝  ╚═════╝    ╚═╝            │
+│                                                          │
+│  SINGH // AI/ML ENGINEER                                 │
+│  > Deploying intelligent systems at scale                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Building+the+Future+with+AI+%26+Data;From+Neural+Networks+to+Production+Systems" alt="Typing SVG" />
 </div>
 
