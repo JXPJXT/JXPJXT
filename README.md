@@ -263,7 +263,7 @@ async def analyze_stock(ticker: str):
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/><br>
-<b>SIH 2024 Nominee</b><br>
+<b>SIH 2025 Nominee by University</b><br>
 <sub>National Level</sub>
 </td>
 </tr>
