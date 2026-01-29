@@ -1,88 +1,96 @@
-<!-- Custom Banner Space (Replace 'profile-banner.png' with your logo) -->
-<p align="center">
-  <img src="./profile-banner.png" alt="Japjot Singh Bhatia | AI Engineer & Data Alchemist" width="100%"/>
-</p>
-
-<h1 align="center">⚡ Production-Grade ML Solutions | Data-Driven Insights</h1>
-<h3 align="center">B.Tech AI & Data Engineering @ LPU | Azure Certified | Kaggle Competitor</h3>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jxpjxt&color=blue&style=for-the-badge" alt="Profile Views"/> 
-  <a href="https://www.linkedin.com/in/japjot-singh-bhatia-651b4b278/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bhatiajapjotjpr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://japjot.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-00C4B4?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🧠 Core Technical Arsenal
-
-### **Machine Learning & AI**
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Production_Deployments-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Real--World_ML-F7931E?logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?logo=pytorch&logoColor=white)
-
-### **Data Engineering & Analytics**
-![Power BI](https://img.shields.io/badge/Power_BI-Interactive_Dashboards-F2C811?logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-Data_Wrangling-4479A1?logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-EDA_Expert-150458?logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-217346?logo=microsoftexcel&logoColor=white)
-
-### **Cloud & Deployment**
-![Azure](https://img.shields.io/badge/Azure_DP900-Certified-0089D6?logo=microsoftazure&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-API_Development-000?logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white)
-
----
-
-## 🚀 Signature Projects
-
-### Multi-Agent Financial Analytics System
-**Modular architecture** combining real-time API data pipelines with LSTM forecasting models  
-**Tech Stack**: `Python` `TensorFlow` `Alpha Vantage API` `OpenRouter`  
-**Impact**: 40% faster trend prediction accuracy in live markets  
-[Explore Code](https://github.com/JXPJXT/Stock-Analysis)
-
-### Deepfake Detection Framework
-**BERT-LSTM hybrid model** achieving 92% F1-score on multimodal datasets  
-**Tech Stack**: `NLP` `HuggingFace` `Streamlit` `Power BI`  
-**Impact**: Processed 50K+ news articles during development  
-[View Implementation](https://github.com/JXPJXT/Fake-News-Detection)
-
-### Smart City Energy Predictor
-**Government-adopted LSTM solution** reducing grid imbalance by 35%  
-**Tech Stack**: `Time Series` `Flask` `AWS Lambda` `BeautifulSoup`  
-**Impact**: Processes 15GB+ daily consumption data  
-[Case Study](https://github.com/JXPJXT/Energy-Forecast)
-
-## 📊 GitHub Odyssey
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jxpjxt&theme=react-dark&hide_border=true&area=true" width="80%"/>
-</p>
-
+<!-- Header with Banner -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jxpjxt&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxpjxt&theme=radical" width="45%"/> 
+  <img src="./profile-banner.png" alt="Japjot Singh Bhatia Banner" width="100%" />
+  
+  <h1 style="font-size: 3em;">🚀 JAPJOT SINGH BHATIA</h1>
+  <h3>⚡ Aspiring AI/ML Engineer | Agentic AI Specialist | Data Alchemist</h3>
+
+  <p>
+    <a href="https://www.linkedin.com/in/japjot-singhb/">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_NOW-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:bhatiajapjotjpr@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-INITIATE_COMMS-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://japjot.vercel.app">
+      <img src="https://img.shields.io/badge/PORTFOLIO-ENTER_THE_VOID-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 </div>
 
+---
 
-## 🏅 Verified Expertise
+## � MISSION STATUS: ONLINE
+> *"Architecting the future with precision AI and scalable data systems."*
 
-| Certification | Authority | Focus Area |
-|---------------|-----------|------------|
-| Azure Data Fundamentals (DP-900) | Microsoft | Cloud Infrastructure |
-| Machine Learning Specialization | DeepLearning.AI | Neural Networks |
-| HackerRank Java (5⭐) | HackerRank | Algorithm Design |
-| Data Analysis Essentials | Microsoft/LinkedIn | Business Intelligence |
+I am a **Data-Driven Innovator** and **Aspiring AI Engineer** with a deep focus on **Large Language Models**, **Agentic Workshops**, and **Scalable Cloud Architectures**. My objective is to deploy intelligent systems that solve complex, real-world problems with high efficiency.
 
 ---
+
+## 🛠️ NEURAL ARSENAL (TECH STACK)
+
+| **SYSTEM MODULES** | **TECHNOLOGIES** |
+| :--- | :--- |
+| **💻 CORE LANGUAGES** | `Python` `Java` `SQL` |
+| **🧠 AI & ML UNITS** | `TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `HuggingFace` `LLMs` `Agentic AI` |
+| **🌐 WEB & API LINKS** | `FastAPI` `Flask` `React` `TypeScript` `Supabase` |
+| **☁️ CLOUD & DEVOPS** | `Docker` `Kubernetes` `Azure` `AWS EC2` `CI/CD` `GitHub Actions` |
+| **📊 DATA & TOOLS** | `PowerBI` `MySQL` `MongoDB` `Google ADK` `Git` |
+
+---
+
+## 💾 OPERATIONAL LOGS (EXPERIENCE)
+
+### 💠 **Data Intern** @ Futurense Technologies
+*🗓️ Jun 2025 - Aug 2025*
+*   **Data Optimization**: Engineered Python scripts to clean and standardize marketing data, enabling precise end-to-end funnel analysis.
+*   **Visual Intelligence**: Deployed a multi-page **Power BI** dashboard to visualize funnel drop-offs, exposing inefficiencies in CPL-focused strategies.
+*   **Strategic Pivot**: Proposed a transition to **CPE-based budgeting**, resulting in higher lead quality and improved downstream conversions.
+
+---
+
+## 🚀 DEPLOYED PROTOCOLS (PROJECTS)
+
+### 🤖 **AI-Based Smart Allocation Engine (PMIS)**
+*Sep '25 | React, TypeScript, Python, Sentence-BERT, ILP*
+*   **Neural Matching**: Developed an AI-driven allocation system using **Sentence-BERT** and cosine similarity for optimal skill-role mapping.
+*   **Algorithm Integrity**: Integrated an **Integer Linear Programming (ILP)** model to ensure fair and transparent allocations.
+*   **Full-Stack Scale**: Built a responsive dashboard with a **Supabase** backend and automated workflows via **GitHub Actions**.
+*   🏆 *Nominated for Smart India Hackathon (SIH) Nationals.*
+
+### 📰 **Fake News Detection System**
+*Aug '25 | Python, BERT, LSTM, FastAPI, AWS*
+*   **Deep Learning Core**: Engineered a hybrid **LSTM + BERT** classifier achieving **95.96% accuracy** on the WELFake dataset (72K+ articles).
+*   **Big Data Ops**: Utilized **Databricks** for analysis and **Airflow** for ETL pipelining.
+*   **Cloud Deployment**: Productionized via **FastAPI** on **AWS EC2** with **Kubernetes** orchestration.
+
+### 📈 **AI-Powered Stock Analysis Agent**
+*Jul '25 | Python, Google ADK, LLMs, Agentic AI*
+*   **Autonomous Agents**: Built a multi-agent system combining real-time market data with LLM-driven insights.
+*   **Tool Orchestration**: Implemented ticker discovery, price tracking, and sentiment analysis with error-aware handling.
+*   **Robust Framework**: Designed modular REST APIs with rate limiting and deployed via **Docker**.
+
+---
+
+## 🔐 CERTIFIED PROTOCOLS
+
+*   🏅 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+*   🏅 **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
+*   🏅 **Microsoft Certified: Azure Data Fundamentals**
+
+---
+
+## 🏆 ACHIEVEMENT LOGS
+
+*   **Smart India Hackathon (SIH)**: Team Leader for PMIS Allocation Engine; 1st Software team from University nominated for Nationals.
+*   **LeetCode**: Solved **500+** Data Structure & Algorithm problems.
+*   **HackerRank**: 5-Star Gold Ranking in Java, Python, and SQL.
+*   **Academic**: 8.14 CGPA in B.Tech CSE, Lovely Professional University.
+
+---
+
+<div align="center">
+  <h3>📊 GITHUB ANALYTICS</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=JXPJXT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="JXPJXT's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JXPJXT&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="JXPJXT's Streak" />
+</div>
