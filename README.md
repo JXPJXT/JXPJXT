@@ -3,10 +3,10 @@
 <!-- HERO BANNER — switches automatically with system theme -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0b1d3a,60:003fff,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=62&descSize=18&descColor=7dd3fc&animation=fadeIn&fontAlign=50&stroke=00cfff&strokeWidth=1" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0b2a5a,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=58&fontColor=00cfff&fontAlignY=42&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=65&descSize=17&descColor=7dd3fc&animation=fadeIn" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8f4ff,30:c8e6ff,60:0066cc,100:0044aa&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=62&fontColor=001833&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=62&descSize=18&descColor=003399&animation=fadeIn&fontAlign=50&stroke=0055cc&strokeWidth=1" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0b1d3a,60:003fff,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=62&descSize=18&descColor=7dd3fc&animation=fadeIn&fontAlign=50&stroke=00cfff&strokeWidth=1" width="100%" alt="Header Banner" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ddeeff,50:99ccff,100:0055cc&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=58&fontColor=001a66&fontAlignY=42&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=65&descSize=17&descColor=003399&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0b2a5a,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=58&fontColor=00cfff&fontAlignY=42&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=65&descSize=17&descColor=7dd3fc&animation=fadeIn" width="100%" alt="Header Banner" />
 </picture>
 
 <!-- TYPING ANIMATION — dark mode (cyan text) -->
