@@ -248,7 +248,7 @@ async def analyze_stock(ticker: str):
 <td align="center" width="16%">
 <img src="https://img.icons8.com/color/96/azure-1.png" width="60"/><br>
 <b>Azure AI Fundamentals</b><br>
-<sub>Microsoft • 2025</sub>
+<sub>Microsoft • Feb 2025</sub>
 </td>
 <td align="center" width="16%">
 <img src="https://img.icons8.com/color/96/oracle-logo.png" width="60"/><br>
