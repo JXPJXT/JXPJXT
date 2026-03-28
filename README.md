@@ -1,12 +1,22 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0b1d3a,60:003fff,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=62&descSize=18&descColor=7dd3fc&animation=fadeIn&fontAlign=50&stroke=00cfff&strokeWidth=1" width="100%"/>
+<!-- HERO BANNER — switches automatically with system theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0b1d3a,60:003fff,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=62&descSize=18&descColor=7dd3fc&animation=fadeIn&fontAlign=50&stroke=00cfff&strokeWidth=1" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8f4ff,30:c8e6ff,60:0066cc,100:0044aa&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=62&fontColor=001833&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=62&descSize=18&descColor=003399&animation=fadeIn&fontAlign=50&stroke=0055cc&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0b1d3a,60:003fff,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=62&descSize=18&descColor=7dd3fc&animation=fadeIn&fontAlign=50&stroke=00cfff&strokeWidth=1" width="100%" alt="Header Banner" />
+</picture>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=00CFFF&center=true&vCenter=true&width=860&lines=%E2%9A%A1+Building+Production+ML+Systems+%7C+Agentic+AI;%F0%9F%A4%96+LLM+Fine-tuning+%7C+Multi-Agent+Architectures;%F0%9F%94%A5+BERT+%7C+Sentence-BERT+%7C+ILP+Optimization;%E2%98%81%EF%B8%8F+Azure+AI+Engineer+Associate+%7C+Oracle+OCI+Certified;%F0%9F%8F%86+SIH+2024+National+Nominee+%E2%80%A2+LPU%27s+First+Software+Team" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION — dark mode (cyan text) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=00CFFF&center=true&vCenter=true&width=860&lines=%E2%9A%A1+Building+Production+ML+Systems+%7C+Agentic+AI;%F0%9F%A4%96+LLM+Fine-tuning+%7C+Multi-Agent+Architectures;%F0%9F%94%A5+BERT+%7C+Sentence-BERT+%7C+ILP+Optimization;%E2%98%81%EF%B8%8F+Azure+AI+Engineer+Associate+%7C+Oracle+OCI+Certified;%F0%9F%8F%86+SIH+2024+National+Nominee+%E2%80%A2+LPU%27s+First+Software+Team" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=0044CC&background=FFFFFF00&center=true&vCenter=true&width=860&lines=%E2%9A%A1+Building+Production+ML+Systems+%7C+Agentic+AI;%F0%9F%A4%96+LLM+Fine-tuning+%7C+Multi-Agent+Architectures;%F0%9F%94%A5+BERT+%7C+Sentence-BERT+%7C+ILP+Optimization;%E2%98%81%EF%B8%8F+Azure+AI+Engineer+Associate+%7C+Oracle+OCI+Certified;%F0%9F%8F%86+SIH+2024+National+Nominee+%E2%80%A2+LPU%27s+First+Software+Team" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=00CFFF&center=true&vCenter=true&width=860&lines=%E2%9A%A1+Building+Production+ML+Systems+%7C+Agentic+AI" alt="Typing SVG" />
+</picture>
 
 <br/><br/>
 
@@ -18,7 +28,7 @@
   <img src="https://img.shields.io/badge/Gmail-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://japjot.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-00cfff?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-Explore-0044CC?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/JXPJXT">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -26,15 +36,45 @@
 
 <br/><br/>
 
-<!-- QUICK STATS PILLS -->
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-LPU_·_8.24_CGPA-0d1b3e?style=flat-square&labelColor=00cfff&color=0a2a4a"/>
-<img src="https://img.shields.io/badge/🏆_SIH_2025-National_Nominee-0d1b3e?style=flat-square&labelColor=FFD700&color=0a2a4a"/>
-<img src="https://img.shields.io/badge/☁️_Certified-Azure_·_Oracle_OCI-0d1b3e?style=flat-square&labelColor=0078D4&color=0a2a4a"/>
-<img src="https://img.shields.io/badge/💻_LeetCode-500%2B_Problems-0d1b3e?style=flat-square&labelColor=FFA116&color=0a2a4a"/>
-<img src="https://img.shields.io/badge/⭐_HackerRank-5★_Gold-0d1b3e?style=flat-square&labelColor=2EC866&color=0a2a4a"/>
+<!-- QUICK STATS PILLS — theme adaptive -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/🎓_B.Tech_CSE-LPU_·_8.24_CGPA-0d1b3e?style=flat-square&labelColor=00cfff&color=0a2a4a" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://img.shields.io/badge/🎓_B.Tech_CSE-LPU_·_8.24_CGPA-cce8ff?style=flat-square&labelColor=0055cc&color=ddeeff" />
+  <img src="https://img.shields.io/badge/🎓_B.Tech_CSE-LPU_·_8.24_CGPA-0d1b3e?style=flat-square&labelColor=00cfff&color=0a2a4a" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/🏆_SIH_2024-National_Nominee-0d1b3e?style=flat-square&labelColor=FFD700&color=0a2a4a" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://img.shields.io/badge/🏆_SIH_2024-National_Nominee-fff8cc?style=flat-square&labelColor=cc9900&color=fff3aa" />
+  <img src="https://img.shields.io/badge/🏆_SIH_2024-National_Nominee-0d1b3e?style=flat-square&labelColor=FFD700&color=0a2a4a" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/☁️_Certified-Azure_·_Oracle_OCI-0d1b3e?style=flat-square&labelColor=0078D4&color=0a2a4a" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://img.shields.io/badge/☁️_Certified-Azure_·_Oracle_OCI-cce0ff?style=flat-square&labelColor=0066bb&color=ddeeff" />
+  <img src="https://img.shields.io/badge/☁️_Certified-Azure_·_Oracle_OCI-0d1b3e?style=flat-square&labelColor=0078D4&color=0a2a4a" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/💻_LeetCode-500%2B_Problems-0d1b3e?style=flat-square&labelColor=FFA116&color=0a2a4a" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://img.shields.io/badge/💻_LeetCode-500%2B_Problems-fff3e0?style=flat-square&labelColor=dd7700&color=ffe8c0" />
+  <img src="https://img.shields.io/badge/💻_LeetCode-500%2B_Problems-0d1b3e?style=flat-square&labelColor=FFA116&color=0a2a4a" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/⭐_HackerRank-5★_Gold-0d1b3e?style=flat-square&labelColor=2EC866&color=0a2a4a" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://img.shields.io/badge/⭐_HackerRank-5★_Gold-e0f7ec?style=flat-square&labelColor=1a9c4e&color=ccf0dd" />
+  <img src="https://img.shields.io/badge/⭐_HackerRank-5★_Gold-0d1b3e?style=flat-square&labelColor=2EC866&color=0a2a4a" />
+</picture>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=JXPJXT&color=00cfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=JXPJXT&color=0055cc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -248,7 +288,7 @@ async def analyze_stock(ticker: str):
 <td align="center" width="16%">
 <img src="https://img.icons8.com/color/96/azure-1.png" width="60"/><br>
 <b>Azure AI Fundamentals</b><br>
-<sub>Microsoft • Feb 2025</sub>
+<sub>Microsoft • 2025</sub>
 </td>
 <td align="center" width="16%">
 <img src="https://img.icons8.com/color/96/oracle-logo.png" width="60"/><br>
@@ -283,12 +323,24 @@ async def analyze_stock(ticker: str):
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JXPJXT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JXPJXT&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JXPJXT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JXPJXT&show_icons=true&theme=default&hide_border=true&bg_color=f0f6ff&title_color=0044cc&icon_color=0055dd&text_color=1a1a2e" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JXPJXT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JXPJXT&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JXPJXT&theme=default&hide_border=true&background=f0f6ff&stroke=0055cc&ring=0044cc&fire=0033bb&currStreakLabel=0044cc" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JXPJXT&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPJXT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPJXT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPJXT&layout=compact&theme=default&hide_border=true&bg_color=f0f6ff&title_color=0044cc&text_color=1a1a2e" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPJXT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" />
+  </picture>
 </div>
 
 ---
@@ -312,7 +364,13 @@ async def analyze_stock(ticker: str):
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b3e,100:00cfff&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=00cfff&animation=wave" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b3e,100:00cfff&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=00cfff&animation=wave" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4ff,50:c8dcff,100:0055cc&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=001a66&animation=wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b3e,100:00cfff&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=00cfff&animation=wave" width="100%" />
+</picture>
 
 <img src="https://komarev.com/ghpvc/?username=JXPJXT&color=00f7f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
