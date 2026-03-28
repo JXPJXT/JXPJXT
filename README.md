@@ -2,11 +2,9 @@
 
 <!-- HERO BANNER — switches automatically with system theme -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0b2a5a,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI%20%7C%20Cloud%20Scale&descAlignY=60&descSize=18&descColor=7dd3fc&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ddeeff,50:99ccff,100:0055cc&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=55&fontColor=001144&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI%20%7C%20Cloud%20Scale&descAlignY=60&descSize=18&descColor=002288&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0b2a5a,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI%20%7C%20Cloud%20Scale&descAlignY=60&descSize=18&descColor=7dd3fc&animation=fadeIn" width="100%" alt="Header Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg" />
+  <img src="header-dark.svg" width="100%" alt="Japjot Singh Bhatia — AI/ML Engineer" />
 </picture>
 
 <!-- TYPING ANIMATION — dark mode (cyan text) -->
