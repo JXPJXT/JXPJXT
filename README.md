@@ -28,7 +28,7 @@
 
 <!-- QUICK STATS PILLS -->
 <img src="https://img.shields.io/badge/🎓_B.Tech_CSE-LPU_·_8.24_CGPA-0d1b3e?style=flat-square&labelColor=00cfff&color=0a2a4a"/>
-<img src="https://img.shields.io/badge/🏆_SIH_2024-National_Nominee-0d1b3e?style=flat-square&labelColor=FFD700&color=0a2a4a"/>
+<img src="https://img.shields.io/badge/🏆_SIH_2025-National_Nominee-0d1b3e?style=flat-square&labelColor=FFD700&color=0a2a4a"/>
 <img src="https://img.shields.io/badge/☁️_Certified-Azure_·_Oracle_OCI-0d1b3e?style=flat-square&labelColor=0078D4&color=0a2a4a"/>
 <img src="https://img.shields.io/badge/💻_LeetCode-500%2B_Problems-0d1b3e?style=flat-square&labelColor=FFA116&color=0a2a4a"/>
 <img src="https://img.shields.io/badge/⭐_HackerRank-5★_Gold-0d1b3e?style=flat-square&labelColor=2EC866&color=0a2a4a"/>
