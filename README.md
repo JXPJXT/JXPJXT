@@ -1,29 +1,40 @@
 <div align="center">
 
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0b1d3a,60:003fff,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=62&descSize=18&descColor=7dd3fc&animation=fadeIn&fontAlign=50&stroke=00cfff&strokeWidth=1" width="100%"/>
 
-</div>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=00CFFF&center=true&vCenter=true&width=860&lines=%E2%9A%A1+Building+Production+ML+Systems+%7C+Agentic+AI;%F0%9F%A4%96+LLM+Fine-tuning+%7C+Multi-Agent+Architectures;%F0%9F%94%A5+BERT+%7C+Sentence-BERT+%7C+ILP+Optimization;%E2%98%81%EF%B8%8F+Azure+AI+Engineer+Associate+%7C+Oracle+OCI+Certified;%F0%9F%8F%86+SIH+2024+National+Nominee+%E2%80%A2+LPU%27s+First+Software+Team" alt="Typing SVG" />
+</a>
 
-<div align="center">
-  <h2>⚡ Building the Future with AI & Data</h2>
-  <p><i>From Neural Networks to Production Systems</i></p>
-</div>
+<br/><br/>
 
-<br>
-
-<div align="center">
-
+<!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/japjot-singhb/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:bhatiajapjotjpr@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://japjot.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Explore-00cfff?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="https://github.com/JXPJXT">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<!-- QUICK STATS PILLS -->
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-LPU_·_8.14_CGPA-0d1b3e?style=flat-square&labelColor=00cfff&color=0a2a4a"/>
+<img src="https://img.shields.io/badge/🏆_SIH_2024-National_Nominee-0d1b3e?style=flat-square&labelColor=FFD700&color=0a2a4a"/>
+<img src="https://img.shields.io/badge/☁️_Certified-Azure_·_Oracle_OCI-0d1b3e?style=flat-square&labelColor=0078D4&color=0a2a4a"/>
+<img src="https://img.shields.io/badge/💻_LeetCode-500%2B_Problems-0d1b3e?style=flat-square&labelColor=FFA116&color=0a2a4a"/>
+<img src="https://img.shields.io/badge/⭐_HackerRank-5★_Gold-0d1b3e?style=flat-square&labelColor=2EC866&color=0a2a4a"/>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=JXPJXT&color=00cfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -229,22 +240,27 @@ async def analyze_stock(ticker: str):
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/azure-1.png" width="60"/><br>
+<b>Azure AI Engineer Associate</b><br>
+<sub>Microsoft • Mar 2026</sub>
+</td>
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/oracle-logo.png" width="60"/><br>
 <b>OCI AI Foundations</b><br>
 <sub>Oracle • Oct 2025</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/oracle-logo.png" width="60"/><br>
 <b>OCI Data Science</b><br>
 <sub>Oracle • Oct 2025</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/azure-1.png" width="60"/><br>
 <b>Azure Data Fundamentals</b><br>
 <sub>Microsoft • Nov 2024</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/><br>
 <b>SIH 2025 Nominee by University</b><br>
 <sub>National Level</sub>
@@ -291,15 +307,7 @@ async def analyze_stock(ticker: str):
 
 <br><br>
 
-```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│     "Building intelligent systems that make a difference"       │
-│                                                                 │
-│                      - Japjot Singh Bhatia                      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b3e,100:00cfff&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=00cfff&animation=wave" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=JXPJXT&color=00f7f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
