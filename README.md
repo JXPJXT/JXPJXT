@@ -3,10 +3,10 @@
 <!-- HERO BANNER — switches automatically with system theme -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a1a,50:0b2a5a,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=65&descSize=17&descColor=7dd3fc" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0b2a5a,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI%20%7C%20Cloud%20Scale&descAlignY=60&descSize=18&descColor=7dd3fc&animation=fadeIn" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=wave&color=0:ddeeff,50:99ccff,100:0055cc&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=58&fontColor=001144&fontAlignY=42&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=65&descSize=17&descColor=002288" />
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a1a,50:0b2a5a,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20CLOUD%20SCALE&descAlignY=65&descSize=17&descColor=7dd3fc" width="100%" alt="Header Banner" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ddeeff,50:99ccff,100:0055cc&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=55&fontColor=001144&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI%20%7C%20Cloud%20Scale&descAlignY=60&descSize=18&descColor=002288&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0b2a5a,100:00cfff&height=280&section=header&text=JAPJOT%20SINGH%20BHATIA&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI%20%7C%20Cloud%20Scale&descAlignY=60&descSize=18&descColor=7dd3fc&animation=fadeIn" width="100%" alt="Header Banner" />
 </picture>
 
 <!-- TYPING ANIMATION — dark mode (cyan text) -->
@@ -366,10 +366,10 @@ async def analyze_stock(ticker: str):
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a1a,50:0d1b3e,100:00cfff&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=00cfff" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b3e,100:00cfff&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=ffffff&animation=fadeIn" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=wave&color=0:ddeeff,50:99ccff,100:0055cc&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=001144" />
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a1a,50:0d1b3e,100:00cfff&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=00cfff" width="100%" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ddeeff,50:99ccff,100:0055cc&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=001144&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b3e,100:00cfff&height=120&section=footer&text=Building+Intelligent+Systems+That+Matter&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
 </picture>
 
 <img src="https://komarev.com/ghpvc/?username=JXPJXT&color=00f7f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
