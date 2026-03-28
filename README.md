@@ -27,7 +27,7 @@
 <br/><br/>
 
 <!-- QUICK STATS PILLS -->
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-LPU_·_8.14_CGPA-0d1b3e?style=flat-square&labelColor=00cfff&color=0a2a4a"/>
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-LPU_·_8.24_CGPA-0d1b3e?style=flat-square&labelColor=00cfff&color=0a2a4a"/>
 <img src="https://img.shields.io/badge/🏆_SIH_2024-National_Nominee-0d1b3e?style=flat-square&labelColor=FFD700&color=0a2a4a"/>
 <img src="https://img.shields.io/badge/☁️_Certified-Azure_·_Oracle_OCI-0d1b3e?style=flat-square&labelColor=0078D4&color=0a2a4a"/>
 <img src="https://img.shields.io/badge/💻_LeetCode-500%2B_Problems-0d1b3e?style=flat-square&labelColor=FFA116&color=0a2a4a"/>
@@ -50,7 +50,7 @@ class JapjotSingh:
         self.name = "Japjot Singh Bhatia"
         self.role = "AI/ML Engineer"
         self.location = "India 🇮🇳"
-        self.education = "B.Tech CSE @ LPU (CGPA: 8.14)"
+        self.education = "B.Tech CSE @ LPU (CGPA: 8.24)"
         
     def current_focus(self):
         return {
@@ -240,27 +240,32 @@ async def analyze_stock(ticker: str):
 
 <table align="center">
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/96/azure-1.png" width="60"/><br>
 <b>Azure AI Engineer Associate</b><br>
 <sub>Microsoft • Mar 2026</sub>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
+<img src="https://img.icons8.com/color/96/azure-1.png" width="60"/><br>
+<b>Azure AI Fundamentals</b><br>
+<sub>Microsoft • 2025</sub>
+</td>
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/96/oracle-logo.png" width="60"/><br>
 <b>OCI AI Foundations</b><br>
 <sub>Oracle • Oct 2025</sub>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/96/oracle-logo.png" width="60"/><br>
 <b>OCI Data Science</b><br>
 <sub>Oracle • Oct 2025</sub>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/96/azure-1.png" width="60"/><br>
 <b>Azure Data Fundamentals</b><br>
 <sub>Microsoft • Nov 2024</sub>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/><br>
 <b>SIH 2025 Nominee by University</b><br>
 <sub>National Level</sub>
@@ -271,7 +276,7 @@ async def analyze_stock(ticker: str):
 **Competitive Programming:**
 - 💻 **500+ Problems** solved on LeetCode (DSA focused)
 - ⭐ **5-Star Gold** ranking on HackerRank (Java, Python, SQL)
-- 🎓 **8.14 CGPA** in B.Tech Computer Science Engineering
+- 🎓 **8.24 CGPA** in B.Tech Computer Science Engineering
 
 ---
 
